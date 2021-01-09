@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorDeCarteira", "GestorDeCarteira.csproj", "{EE16D03D-1D21-448E-9C11-286524AF799B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE16D03D-1D21-448E-9C11-286524AF799B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE16D03D-1D21-448E-9C11-286524AF799B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE16D03D-1D21-448E-9C11-286524AF799B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE16D03D-1D21-448E-9C11-286524AF799B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C12DD6B-46F9-4B16-A908-0F7995F4A537}
+	EndGlobalSection
+EndGlobal
